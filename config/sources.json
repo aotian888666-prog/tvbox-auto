@@ -1,0 +1,10 @@
+[
+  {
+    "name": "demo1",
+    "url": "https://example.com/api.php/provide/vod/"
+  },
+  {
+    "name": "demo2",
+    "url": "https://example.org/api.php/provide/vod/"
+  }
+]
